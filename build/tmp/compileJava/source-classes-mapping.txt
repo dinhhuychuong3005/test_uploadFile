@@ -1,0 +1,6 @@
+config/AppConfiguration.java
+ config.AppConfiguration
+config/AppInitializer.java
+ config.AppInitializer
+controller/ProductController.java
+ controller.ProductController
